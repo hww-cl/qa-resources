@@ -1,2 +1,4 @@
-# qa-resources
-This repo contains the resources I used in my journey
+## qa-resources
+This repo contains the resources:
+* ISTQB foundation level certification
+* Cypress 
